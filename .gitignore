@@ -4,3 +4,4 @@ qtypetest/bin/
 qtypetest/.project
 qtypetest.zip
 qtypetest/target/classes/
+.idea/*
